@@ -1,0 +1,17 @@
+{
+  "github.copilot.chat.agent.enabled": true,
+  "github.copilot.chat.agentEnabled": true,
+  "files.associations": {
+    "*.pa.yaml": "yaml"
+  },
+  "yaml.schemas": {},
+  "editor.formatOnSave": true,
+  "[yaml]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced"
+  },
+  "files.exclude": {
+    "**/.claude-plugin": false
+  }
+}
